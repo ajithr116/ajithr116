@@ -14,8 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: AJITH
 - ⚡ Fun fact: How birds flying ?........ with wings
 
-<!--# 💫 About Me:
-Iam learning new skills all day
+<!--# 💫 About Me : 
+Iam learning new skills all day 
+wake up : 8:00 
+breakfast : 8:30 🕥
+           : 9:00 to 9:30 international news , social medias , and more for updating knowledge 
+9:30 to 12:00 coding , learning and more 
+12:00 to 12:30 understanding other small concepts .
+12:00 lunch 
+1:00 news , social media , youtube , logic games and more .
+2:00 4:00 sleep because need to focus on night without sleepy eyes 
+4:00 to 5:30 coding 
+5:30 to 6:00 evening tea and snacks
+6:00 to 6:30 personal -----
+6:30 to 11:30 coding , learning  and more 
+
 
 
 # 💻 Tech Stack:
