@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<body style="background-color: white;">
 <!--
 **ajithr116/ajithr116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
